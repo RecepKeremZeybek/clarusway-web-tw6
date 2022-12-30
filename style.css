@@ -45,5 +45,15 @@ a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2{
+    font-size: 46px;
+    margin: 20px;
 }
 /* home finished */
