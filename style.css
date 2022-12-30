@@ -9,7 +9,7 @@
 .header{
     width: 100%;
     height: 100px;
-    background-color: rgb(128, 125, 125);
+    background-color: gray;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -56,5 +56,29 @@ h2{
     font-size: 46px;
     margin: 20px;
     color: white;
+}
+
+.div1{
+    width: 100%;
+    height:100px;
+    background-color:gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+p{
+    font-size:20px;
+    color:white
+}
+input{
+    padding: 7px;
+    border-radius: 10px;
+}
+button{
+    background-color: brown;
+    padding: 7px;
+    border-radius: 10px;
 }
 /* home finished */
