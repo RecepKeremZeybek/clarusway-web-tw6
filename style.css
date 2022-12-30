@@ -22,10 +22,12 @@ a{
     text-decoration: none;
     color: black;
     margin:15px;
+    transition: all .2s ease-in-out;
 }
 
 a:hover{
     color:white;
     text-decoration: underline;
+    transform: scale(1.1);
     
 }
